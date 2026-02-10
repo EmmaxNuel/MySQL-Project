@@ -1,0 +1,1 @@
+SELECT * FROM `create database user_db`.users;
